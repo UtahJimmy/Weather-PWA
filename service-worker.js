@@ -10,7 +10,7 @@ var filesToCache = [
   'images/cloudy-scattered-showers.png',
   'images/cloudy.png',
   'images/fog.png',
-  '/Weather-PWA/images/ic_add_white_24px.svg',
+  '/images/ic_add_white_24px.svg',
   '/Weather-PWA/images/ic_refresh_white_24px.svg',
   '/Weather-PWA/images/partly-cloudy.png',
   '/Weather-PWA/images/rain.png',
