@@ -10,14 +10,14 @@ var filesToCache = [
   'images/cloudy-scattered-showers.png',
   'images/cloudy.png',
   'images/fog.png',
-  '/images/ic_add_white_24px.svg',
-  '/Weather-PWA/images/ic_refresh_white_24px.svg',
-  '/Weather-PWA/images/partly-cloudy.png',
-  '/Weather-PWA/images/rain.png',
-  '/Weather-PWA/images/scattered-showers.png',
+  'images/ic_add_white_24px.svg',
+  'images/ic_refresh_white_24px.svg',
+  'images/partly-cloudy.png',
+  'images/rain.png',
+  'images/scattered-showers.png',
   'images/sleet.png',
   'images/snow.png',
-  '/Weather-PWA/images/thunderstorm.png',
+  'images/thunderstorm.png',
   'images/wind.png'
 ];
 
