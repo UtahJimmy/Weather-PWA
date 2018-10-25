@@ -111,7 +111,7 @@ body {
   .header #butRefresh {
     background: url(images/ic_refresh_white_24px.svg) center center no-repeat; }
   .header #butAdd {
-    background: url(/Weather-PWA/images/ic_add_white_24px.svg) center center no-repeat; }
+    background: url(images/ic_add_white_24px.svg) center center no-repeat; }
 
 .header__title {
   font-weight: 400;
@@ -325,7 +325,7 @@ body {
   .weather-forecast .icon.clear-day {
     background-image: url("images/clear.png"); }
   .weather-forecast .icon.clear-night {
-    background-image: url("/Weather-PWA/images/clear.png"); }
+    background-image: url("images/clear.png"); }
   .weather-forecast .icon.rain {
     background-image: url("images/rain.png"); }
   .weather-forecast .icon.snow {
@@ -343,7 +343,7 @@ body {
   .weather-forecast .icon.partly-cloudy-night {
     background-image: url("images/partly-cloudy.png"); }
   .weather-forecast .icon.thunderstorms {
-    background-image: url("/Weather-PWA/images/thunderstorm.png"); }
+    background-image: url("images/thunderstorm.png"); }
 
 @media (max-width: 450px) {
   .weather-forecast .date, .weather-forecast .description {
