@@ -17,7 +17,7 @@ var filesToCache = [
   'images/scattered-showers.png',
   'images/sleet.png',
   'images/snow.png',
-  'images/thunderstorm.png',
+  '/Weather-PWA/images/thunderstorm.png',
   'images/wind.png'
 ];
 
